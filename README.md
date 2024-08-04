@@ -73,7 +73,6 @@ Overall, the vegetation cover and health have improved in Kasauli from 2018 to 2
 
 Repository Contents
 
-
 /docs: Documentation and supplementary materials related to the project.
 
 README.md: This readme file providing an overview of the project.
