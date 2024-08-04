@@ -72,6 +72,7 @@ Conclusion
 Overall, the vegetation cover and health have improved in Kasauli from 2018 to 2022.
 
 Dependencies
+
 Python 3.x
 numpy
 pandas
