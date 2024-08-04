@@ -71,6 +71,14 @@ Conclusion
 2022: Moderate vegetation cover with better health conditions.
 Overall, the vegetation cover and health have improved in Kasauli from 2018 to 2022.
 
+Dependencies
+Python 3.x
+numpy
+pandas
+matplotlib
+rasterio
+scikit-image
+
 Repository Contents
 
 /docs: Documentation and supplementary materials related to the project.
